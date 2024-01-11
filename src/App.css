@@ -1,0 +1,14 @@
+#root {
+  width: 100%;
+  margin: 0 auto;
+  text-align: center;
+}
+
+.contents-wrapper {
+  margin: 0 auto;
+  overflow-x: hidden;
+  width: 80vw;
+  background-color: #242424;
+  display: flex;
+  direction: rtl;
+}
